@@ -5,6 +5,8 @@ let granosCafe = 260; //gramos de cafe - capacidad máxima
 let agua = 2000; //agua en mililitros - capacidad máxima
 let taza = 10; //capacidad máxima
 
+
+
 function encender(){
 
     if (power === false){
